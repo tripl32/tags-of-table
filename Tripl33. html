@@ -1,0 +1,22 @@
+# tags-of-table
+<!DOCTYPE>
+<HTML>
+</Table>
+<Table border=1px>
+<Thead>
+<Tr>
+<Th> The third Eye company</th>
+<Th> grade12</th>
+</Tr>
+</Thead>
+<Tbody>
+<Tr>
+<Td>jasmine </td>
+<Td>grade8</td>
+</Tr>
+<Tr>
+<Td> Stephanie </td>
+<Td>grade7</td>
+</Tr>
+</Tbody>
+</Table>
